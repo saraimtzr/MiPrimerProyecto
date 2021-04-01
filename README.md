@@ -22,3 +22,6 @@ _Holaaa_
 Esto es un subtítulo
 **Hola buen dia Martes**
 *Saludos*   //realizando pruebas de commits//
+*Día ttres de realizar pruebas*
+mi equipo presentaba prblemas y lo formatee
+**acabo de terminar de configurarlo*
