@@ -25,3 +25,5 @@ Esto es un subtítulo
 *Día ttres de realizar pruebas*
 mi equipo presentaba prblemas y lo formatee
 **acabo de terminar de configurarlo*
+*Ya se guarda commits, ver insights*
+esta pagina es muy nteresante
