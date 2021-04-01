@@ -27,3 +27,7 @@ mi equipo presentaba prblemas y lo formatee
 **acabo de terminar de configurarlo*
 *Ya se guarda commits, ver insights*
 esta pagina es muy nteresante
+
+
+
+hoy el dia estuvo nublado pero con calor ademas de viento
