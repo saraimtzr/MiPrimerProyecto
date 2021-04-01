@@ -31,3 +31,6 @@ esta pagina es muy nteresante
 
 
 hoy el dia estuvo nublado pero con calor ademas de viento
+
+
+¿como se cambiara al lenguaje en español?
